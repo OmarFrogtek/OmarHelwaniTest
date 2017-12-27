@@ -1,6 +1,6 @@
 # Frogtek Technical test
 
-This is the Omar Helwani to the Frogtek technical test.
+These are Omar Helwani answers to the Frogtek technical test.
 
 ### Prerequisites
 
@@ -33,8 +33,6 @@ python generate-events.py --number-of-orders=100 --batch-size=50 --interval=1 --
 ```
 Parameter values can be changed.
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ### How to run Exercise 3
 
 In the downloaded folder, using the command line, type :
@@ -42,6 +40,8 @@ In the downloaded folder, using the command line, type :
 ```
 python exercice3.py <directory_to_be_watched>
 ```
+### Thank you for your time
+
 ## Authors
 
 * **Omar Helwani** - *Initial work* - [OmarHelwani](https://github.com/PurpleBooth)
