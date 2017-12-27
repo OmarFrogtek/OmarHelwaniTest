@@ -8,7 +8,7 @@ sys.path.append(os.getcwd() + '/Utilities/Exercise 3')
 # These are the rest of imports
 import glob
 import time as tm
-from utilities import process_new_files
+from processfiles import process_new_files
 
 def waiting_for_files (directory):
 
