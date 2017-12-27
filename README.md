@@ -44,4 +44,4 @@ python exercice3.py <directory_to_be_watched>
 
 ## Authors
 
-* **Omar Helwani** - *Initial work* - [OmarHelwani](https://github.com/PurpleBooth)
+* **Omar Helwani** - *Initial work* - [OmarHelwani](https://github.com/OmarFrogtek/)
